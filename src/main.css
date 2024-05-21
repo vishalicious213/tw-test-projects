@@ -15,3 +15,7 @@
         @apply mb-2;
     }
 }
+
+ul {
+    list-style: "\27A2   ";
+}
