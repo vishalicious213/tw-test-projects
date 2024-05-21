@@ -3,8 +3,12 @@
 @tailwind utilities;
 
 @layer components {
-    .h2 {
+    h2 {
         @apply text-2xl font-semibold mb-4;
+    }
+
+    h3 {
+        @apply text-xl font-semibold mb-4;
     }
 
     .body-text {
